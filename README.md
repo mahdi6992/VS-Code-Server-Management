@@ -89,6 +89,8 @@ This script automatically implements:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+You are free to use, modify, and distribute this script and its documentation, provided that you include proper attribution to the original author (Mahdi Saberi - DevMeta).
+
 ## Support
 
 For support and more information, visit [DevMeta](https://devmeta.ir). 
