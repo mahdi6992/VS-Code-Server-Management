@@ -102,6 +102,8 @@ For support and more information, visit [DevMeta](https://devmeta.ir).
 <details>
 <summary>برای مشاهده نسخه فارسی کلیک کنید / Click to view Persian version</summary>
 
+<div dir="rtl" align="right">
+
 # اسکریپت مدیریت VS Code Server
 ### توسعه یافته توسط مهدی صابری (DevMeta)
 
@@ -196,5 +198,7 @@ chmod +x "VS-Code-Server-Management.sh"
 ## پشتیبانی
 
 برای پشتیبانی و اطلاعات بیشتر، به [DevMeta](https://devmeta.ir) مراجعه کنید.
+
+</div>
 
 </details>
