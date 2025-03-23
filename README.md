@@ -150,6 +150,7 @@ chmod +x "VS-Code-Server-Management.sh"
 ## ویژگی‌ها
 
 این اسکریپت یک رابط مدیریتی کامل برای VS Code Server ارائه می‌دهد:
+<div dir="ltr" align="left">
 
 1. **Install VS Code Server**: راه‌اندازی VS Code Server با Nginx به عنوان پراکسی معکوس
 2. **Create New VS Code Account**: افزودن کاربران جدید به سرور شما
@@ -157,6 +158,7 @@ chmod +x "VS-Code-Server-Management.sh"
 4. **Update VS Code Server**: ارتقا به آخرین نسخه
 5. **Backup VS Code Server Settings**: ایجاد یک نسخه پشتیبان کامل از تمام پیکربندی‌ها
 6. **Change Domain**: به‌روزرسانی دامنه بدون نیاز به نصب مجدد
+</div>
 
 ## پیش‌نیازها
 
