@@ -28,12 +28,16 @@ VS Code Server is an open-source version of Visual Studio Code that runs in the 
 
 ## Quick Start
 
+<div dir="ltr" align="left">
+
 ```bash
 git clone https://github.com/mahdi6992/VS-Code-Server-Management.git
 cd VS-Code-Server-Management
 chmod +x "VS-Code-Server-Management.sh"
 ./VS-Code-Server-Management.sh
 ```
+
+</div>
 
 ## Features
 
@@ -132,6 +136,8 @@ VS Code Server نسخه متن‌باز ویژوال استودیو کد است 
 
 ## شروع سریع
 
+<div dir="ltr" align="left">
+
 ```bash
 git clone https://github.com/mahdi6992/VS-Code-Server-Management.git
 cd VS-Code-Server-Management
@@ -139,16 +145,18 @@ chmod +x "VS-Code-Server-Management.sh"
 ./VS-Code-Server-Management.sh
 ```
 
+</div>
+
 ## ویژگی‌ها
 
 این اسکریپت یک رابط مدیریتی کامل برای VS Code Server ارائه می‌دهد:
 
-1. **نصب VS Code Server**: راه‌اندازی VS Code Server با Nginx به عنوان پراکسی معکوس
-2. **ایجاد حساب کاربری جدید**: افزودن کاربران جدید به سرور شما
-3. **تغییر رمز عبور VS Code Server**: به‌روزرسانی رمز عبور دسترسی
-4. **به‌روزرسانی VS Code Server**: ارتقا به آخرین نسخه
-5. **تهیه نسخه پشتیبان از تنظیمات**: ایجاد یک نسخه پشتیبان کامل از تمام پیکربندی‌ها
-6. **تغییر دامنه**: به‌روزرسانی دامنه بدون نیاز به نصب مجدد
+1. **Install VS Code Server**: راه‌اندازی VS Code Server با Nginx به عنوان پراکسی معکوس
+2. **Create New VS Code Account**: افزودن کاربران جدید به سرور شما
+3. **Change VS Code Server Password**: به‌روزرسانی رمز عبور دسترسی
+4. **Update VS Code Server**: ارتقا به آخرین نسخه
+5. **Backup VS Code Server Settings**: ایجاد یک نسخه پشتیبان کامل از تمام پیکربندی‌ها
+6. **Change Domain**: به‌روزرسانی دامنه بدون نیاز به نصب مجدد
 
 ## پیش‌نیازها
 
